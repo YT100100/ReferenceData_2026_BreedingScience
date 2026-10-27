@@ -1,0 +1,4 @@
+2025-12-04 15:54:24 | WARNING | call=NULL
+
+51 (4.0%) p_waic estimates greater than 0.4. We recommend trying loo instead.
+ 

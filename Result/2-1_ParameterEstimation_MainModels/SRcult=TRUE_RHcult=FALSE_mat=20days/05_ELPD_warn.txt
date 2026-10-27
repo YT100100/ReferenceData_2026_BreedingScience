@@ -1,0 +1,4 @@
+2025-12-04 15:54:36 | WARNING | call=NULL
+Some Pareto k diagnostic values are too high. See help('pareto-k-diagnostic') for details.
+
+ 

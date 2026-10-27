@@ -1,0 +1,28 @@
+2025-12-04 16:10:26 | WARNING | call=NULL
+There were 1814 divergent transitions after warmup. See
+https://mc-stan.org/misc/warnings.html#divergent-transitions-after-warmup
+to find out why this is a problem and how to eliminate them.
+ 
+2025-12-04 16:10:26 | WARNING | call=NULL
+There were 4 chains where the estimated Bayesian Fraction of Missing Information was low. See
+https://mc-stan.org/misc/warnings.html#bfmi-low
+ 
+2025-12-04 16:10:26 | WARNING | call=NULL
+Examine the pairs() plot to diagnose sampling problems
+
+ 
+2025-12-04 16:12:04 | WARNING | call=NULL
+The largest R-hat is NA, indicating chains have not mixed.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#r-hat
+ 
+2025-12-04 16:13:40 | WARNING | call=NULL
+Bulk Effective Samples Size (ESS) is too low, indicating posterior means and medians may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#bulk-ess
+ 
+2025-12-04 16:15:25 | WARNING | call=NULL
+Tail Effective Samples Size (ESS) is too low, indicating posterior variances and tail quantiles may be unreliable.
+Running the chains for more iterations may help. See
+https://mc-stan.org/misc/warnings.html#tail-ess
+ 
